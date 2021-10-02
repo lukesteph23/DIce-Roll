@@ -1,0 +1,20 @@
+
+button {background-color: #e7e7e7;} /* color button = Gray */
+img{
+  width: 100px;
+  height: 100px; /* changing placeholder image to 100/100 px to make the image a square shape */
+
+}
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: red;
+  font-size: 20px;
+}
